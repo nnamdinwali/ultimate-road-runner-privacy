@@ -1,2 +1,3 @@
-# ultimate-road-runner-privacy
-Privacy Policy for Ultimate Road Runner mobile game
+# Ultimate Road Runner — Privacy Policy
+
+Hosted at: https://nnamdinwali.github.io/ultimate-road-runner-privacy/
